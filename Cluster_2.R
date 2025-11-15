@@ -5,7 +5,7 @@
 ##   (B) For each of 100 datasets:
 ##       * Fit AGM for C = 1:6, compute train/test joint RMSE
 ##       * Choose C* by visual-knee (Kneedle + L-method, fallback)
-##       * (Optional) save elbow plot per dataset
+##       * Elbow plot per dataset
 ##   (C) Histogram of the 100 chosen C*
 ## ============================================================
 
